@@ -1,7 +1,7 @@
 public class Recursion {
 
     public static void main(String[] args) {
-        System.out.println(recursion4(0, 0, 2, 10));
+        System.out.println(recursion4(0, 0, 3, 10));
         System.out.println(recursion5(1997));
         System.out.println(recursion6(587, 2));
     }

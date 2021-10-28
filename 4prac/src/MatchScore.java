@@ -14,6 +14,7 @@ class MatchScore extends JFrame {
     JLabel result = new JLabel("Result: 0 X 0");
 
     public void createGUI() {
+        setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
         setSize(300,200);
         setLayout(null); //разметка произвольно
 
